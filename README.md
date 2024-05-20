@@ -5,4 +5,18 @@ The "Meeting Preparation AI" project aims to streamline the preparation process 
 
 ## Key features of the Meeting Preparation AI include:
 
-The summary is divided into 5 sections.
+Just upload meeting transcripts or email threads in a .pdf or .txt file and it will generate a summary as per the below outline. Do not give any prompt. The prompt is optimized to generate a summary in 4 sections. 
+
+Section 1: Key features about the product being discussed
+
+Section 2: Overall discussion agenda and participants list.  
+
+Section 3: Key takeaways with important quotes from participants. 
+
+Section 4: Overall sentiment analysis and pain points.
+
+Section 5: Further action points or suggestions based on the conversation analysis. 
+
+ 
+
+Above is the default output without any prompt. If the user wants to include a specific section they can further modify the output by giving a prompt.
